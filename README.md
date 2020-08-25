@@ -8,7 +8,7 @@
 ###  Control Flow Graph
 
 Фотографија од control flow graph-ot 
-![alt text] ( https://scontent.fskp4-1.fna.fbcdn.net/v/t1.0-9/118458787_3518422314849295_6735241242016357534_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=mRw2o5Y82l0AX9ggQ2e&_nc_oc=AQnug-qfs01EQkfFfBp2iiX89zDU-IIvJHYn5fpCl_oEpTFhYbbmettoK9SzxE8QRq8&_nc_ht=scontent.fskp4-1.fna&oh=7d2922b30c545961df22ee90e5a80b37&oe=5F6C88B4 )
+![alt text]( https://scontent.fskp4-1.fna.fbcdn.net/v/t1.0-9/118458787_3518422314849295_6735241242016357534_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=mRw2o5Y82l0AX9ggQ2e&_nc_oc=AQnug-qfs01EQkfFfBp2iiX89zDU-IIvJHYn5fpCl_oEpTFhYbbmettoK9SzxE8QRq8&_nc_ht=scontent.fskp4-1.fna&oh=7d2922b30c545961df22ee90e5a80b37&oe=5F6C88B4 )
 
 ### Тест случаи според критериумот  Every statement 
 //
